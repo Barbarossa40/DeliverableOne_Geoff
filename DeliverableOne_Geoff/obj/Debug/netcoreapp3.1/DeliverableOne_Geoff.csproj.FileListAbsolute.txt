@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\bin\Debug\netcoreapp3.1\DeliverableOne_Geoff.exe
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\bin\Debug\netcoreapp3.1\DeliverableOne_Geoff.deps.json
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\bin\Debug\netcoreapp3.1\DeliverableOne_Geoff.runtimeconfig.json
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\bin\Debug\netcoreapp3.1\DeliverableOne_Geoff.runtimeconfig.dev.json
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\bin\Debug\netcoreapp3.1\DeliverableOne_Geoff.dll
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\bin\Debug\netcoreapp3.1\DeliverableOne_Geoff.pdb
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.AssemblyInfo.cs
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.dll
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.pdb
+C:\Users\User\source\repos\DeliverableOne_Geoff\DeliverableOne_Geoff\obj\Debug\netcoreapp3.1\DeliverableOne_Geoff.genruntimeconfig.cache
